@@ -34,8 +34,9 @@ The video showcases the Turtlebot3 robot navigating through the virtual laborato
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/), which allows for free use, modification, and distribution of the project's code and assets, subject to the terms and conditions of the license.
-
+[prakash-aryan/MrSlam-Nav2](https://github.com/prakash-aryan/MrSlam-Nav2.git), is licensed under the Mozilla Public License 2.0
+Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+## Contributions
 ## Contributions
 
 As the project is still in its early stages, contributions are not being accepted at this time. However, once the project reaches a more stable state, contributions from the community will be welcome and greatly appreciated. Please stay tuned for updates on how you can contribute to the Mixed Reality Simulation of SLAM and NAV2 project.
