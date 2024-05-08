@@ -6,7 +6,7 @@
  </a>
 </p>
 
-This project is a mixed reality simulation of SLAM (Simultaneous Localization and Mapping) and NAV2 (Navigation 2) using the Turtlebot3 robot in a virtual laboratory environment created with Unity. The simulation runs on the Meta Quest 3 mixed reality headset, providing an immersive experience for exploring the capabilities of SLAM and NAV2 in a controlled mixed reality setting.
+This project is a mixed reality simulation of SLAM (Simultaneous Localization and Mapping) and NAV2 (Navigation 2) using the Turtlebot3 robot in a real laboratory environment. The simulation runs on the Meta Quest 3 mixed reality headset, providing an immersive experience for exploring the capabilities of SLAM and NAV2 in a controlled mixed reality setting.
 
 ## Overview
 
